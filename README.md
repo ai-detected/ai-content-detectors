@@ -17,6 +17,7 @@ Welcome to the 'List of AI Content Detector Tools'. This list is a collection of
  - [G](#g)
  - [H](#h)
  - [I](#i)
+ - [J](#j)
  - [N](#n)
  - [O](#o)
  - [Q](#q)
@@ -53,8 +54,12 @@ Welcome to the 'List of AI Content Detector Tools'. This list is a collection of
 
  ### I
  - [Illuminarty](https://illuminarty.ai/en/text/ai-generated-text-detection.html/) - Detects AI-generated text, identifies the model, and pinpoints AI-generated sections.
+ - [Inkey](https://www.inkey.ai/ai-tools/ai-detector) - Exposes artificially generated content by analyzing text patterns.
  - [Inspera](https://www.inspera.com/inspera-originality/) - Detects potential plagiarism and AI usage in multilingual student work. 
  - [Is It AI?](https://isitai.com/ai-text-detector/) - Predicts if text is AI-generated or human-written by analyzing characteristic features.
+
+ ### J
+ - [Justdone](https://justdone.ai/other/ai-detector) - Detector for content authenticity and SEO, mainly for digital marketers.
 
  ### N
  - [NeuralWriter](https://neuralwriter.com/content-detector-tool/) - Free AI content detector identifies machine-generated vs human-written text.
@@ -71,7 +76,8 @@ Welcome to the 'List of AI Content Detector Tools'. This list is a collection of
   - [SciSpace](https://typeset.io/ai-detector) -  An AI detector tool to identify AI-generated content in academia.
   - [Scribbr](https://www.scribbr.com/ai-detector/) - A free tool to detect AI-generated text. Works well for older GPT models. 
   - [Smodin](https://smodin.io/ai-content-detector) - Multi-lingual AI content detector identifies human vs AI-generated text. 
-  - [SpinBot](https://spinbot.com/ai-content-detector) - Simplistic AI tool that detects if text is AI-generated or human-written using machine learning. 
+  - [SpinBot](https://spinbot.com/ai-content-detector) - Simplistic AI tool that detects if text is AI-generated or human-written using machine learning.
+  - [StealthGPT](https://www.stealthgpt.ai/ai-checker) - Identifies AI-generated content through word choice analysis.
 
  ### T
   - [Trinka](https://www.trinka.ai/ai-content-detector/) - An AI content detector to identify ChatGPT-like AI-generated text. 
