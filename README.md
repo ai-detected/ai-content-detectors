@@ -1,6 +1,6 @@
 # List of AI Content Detectors
 
-Welcome to the 'List of AI Content Detector Tools'. This list is a collection of advanced tools that help you find AI-generated text on the internet. It's perfect for website developers, AI researchers, educators, or anyone who needs to distinguish between content written by humans and content produced by AI. We've assembled and organized these tools to make it easy for you to find the ones that perform well in detecting AI content. Explore this resource to find the right AI content detectors for your needs and join us in promoting cooperation and recognition within the AI community.
+Welcome to the 'List of AI Content Detectors'. This list is a collection of advanced tools that help you find AI-generated text on the internet. It's perfect for website developers, AI researchers, educators, or anyone who needs to distinguish between content written by humans and content produced by AI. We've assembled and organized these tools to make it easy for you to find the ones that perform well in detecting AI content. Explore this resource to find the right AI content detectors for your needs and join us in promoting cooperation and recognition within the AI community.
 
 **NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Remember that no AI content detector is perfect for every job, and always use your best judgment.
 
