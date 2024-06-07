@@ -5,7 +5,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
 **NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Remember that no AI content detector is perfect for every job, and always use your best judgment.
 
 ## DetectorTools.ai Directory
-- ### [DetectorTools.ai](https://detectortools.ai) is the original source for this list.
+- ### [DetectorTools.ai](https://detectortools.ai) is the original source for this list. You should also check them out if you want to check out the accuracy rating for each tool.
 
 ## Table of content:
 **Base on start letter:**
@@ -18,9 +18,12 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [H](#h)
  - [I](#i)
  - [J](#j)
+ - [M](#m)
  - [N](#n)
  - [O](#o)
+ - [P](#p)
  - [Q](#q)
+ - [R](#r)
  - [S](#s)
  - [T](#t)
  - [U](#u)
@@ -28,9 +31,9 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [Z](#z)
 
  ### A
+ - [AIContentfy](https://aicontentfy.com/free-ai-content-detector-tool/) - Tool that detects AI-generated text for SEO specialists and content creators.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
-
-
+ - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
 
  ### C
  - [Compilatio](https://www.compilatio.net/) - Plagiarism and AI content detector tools for educators, students, and publishers.
@@ -40,6 +43,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [Crossplag](https://crossplag.com/ai-content-detector/) - Detects AI-generated text by analyzing text patterns. 
 
  ### D
+ - [Decopy.ai](https://decopy.ai/) - Decopy.ai provides a free, simple AI content detector with no signup.
  - [DuckDuckGoose](https://www.duckduckgoose.ai/ai-text-detection/) - Detects AI-generated text in complex documents like scholarly works. 
  
  ### E
@@ -57,19 +61,32 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [Inkey](https://www.inkey.ai/ai-tools/ai-detector) - Exposes artificially generated content by analyzing text patterns.
  - [Inspera](https://www.inspera.com/inspera-originality/) - Detects potential plagiarism and AI usage in multilingual student work. 
  - [Is It AI?](https://isitai.com/ai-text-detector/) - Predicts if text is AI-generated or human-written by analyzing characteristic features.
+ - [Isgen](https://isgen.ai/) - Detector that identifies AI-generated text in over 80 languages.
 
  ### J
  - [Justdone](https://justdone.ai/other/ai-detector) - Detector for content authenticity and SEO, mainly for digital marketers.
+
+ ### M
+ - [Merlin](https://www.getmerlin.in/ai-detection/) - A relatively accurate AI Detector with a good free version.
 
  ### N
  - [NeuralWriter](https://neuralwriter.com/content-detector-tool/) - Free AI content detector identifies machine-generated vs human-written text.
  
  ### O
+  - [OpenL](https://openl.io/ai-detector) - Accurate AI Detector that offers up to 10 free daily scans.
   - [Orginality.ai](https://originality.ai/ai-checker/) - AI Detector for ChatGPT, GPT-4, Bard, Claude and other popular AI writing tools.
+
+ ### P
+  - [PlagiarismSearch](https://plagiarismsearch.com/ai-content-detector/) - An advanced AI detector to evaluate the authenticity of documents or sections.
+  - [Plagramme](https://www.plagramme.com/services/ai/) - A multilingual AI detector with a free version limited to 2,500 characters.
+  - [PromptFolder](https://promptfolder.com/chatgpt-detector/) - A multilingual AI detector with a free version limited to 2,500 characters.
 
  ### Q
   - [Quetext](https://www.quetext.com/ai-detector/) - Verifies originality of written content for academic and professional use. 
-  - [QuillBot](https://quillbot.com/ai-content-detector/) - A rather simple AI text detector, potentially valuable for personal use. 
+  - [QuillBot](https://quillbot.com/ai-content-detector/) - A rather simple AI text detector, potentially valuable for personal use.
+
+ ### R
+  - [Reality Defender](https://www.realitydefender.com/) - AI Detector for political use cases.
 
  ### S
   - [Sapling](https://sapling.ai/ai-content-detector/) - Identifies AI-generated text, providing probability scores. 
@@ -82,7 +99,6 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  ### T
   - [Trinka](https://www.trinka.ai/ai-content-detector/) - An AI content detector to identify ChatGPT-like AI-generated text. 
   - [Turnitin](https://www.turnitin.com/solutions/topics/ai-writing/ai-detector/) - An AI detector that identifies AI-generated content in student writing, pinpointing AI usage.
-
 
  ### U
    - [Undetectable AI](https://undetectable.ai/) - Detects AI-generated text, analyzing 10,000 characters for free.
