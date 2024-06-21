@@ -41,7 +41,6 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [Compilatio](https://www.compilatio.net/) - Plagiarism and AI content detector tools for educators, students, and publishers.
  - [Content at Scale](https://contentatscale.ai/ai-content-detector/) - Identifies AI-generated text from ChatGPT-like models.
  - [Copyleaks](https://copyleaks.com/ai-content-detector) - Detects AI-written content by analyzing writing patterns.
-
  - [Crossplag](https://crossplag.com/ai-content-detector/) - Detects AI-generated text by analyzing text patterns. 
 
  ### D
