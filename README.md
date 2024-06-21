@@ -14,10 +14,12 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [C](#c)
  - [D](#d)
  - [E](#e)
+ - [F](#f)
  - [G](#g)
  - [H](#h)
  - [I](#i)
  - [J](#j)
+ - [L](#l)
  - [M](#m)
  - [N](#n)
  - [O](#o)
@@ -47,7 +49,10 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [DuckDuckGoose](https://www.duckduckgoose.ai/ai-text-detection/) - Detects AI-generated text in complex documents like scholarly works. 
  
  ### E
- - [EduLinkAI](https://edulinkai.com/checker-ai/) - Detects AI-written text in academic assignments. 
+ - [EduLinkAI](https://edulinkai.com/checker-ai/) - Detects AI-written text in academic assignments.
+
+ ### F
+ - [Free AI Checker](https://www.freeaichecker.com/check) - Mysterious no-cost tool. Best for personal use.
  
  ### G
  - [GPTKit](https://gptkit.ai/) - Detects if text is AI or human-written, giving a "reality rate" report. 
@@ -65,6 +70,9 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
 
  ### J
  - [Justdone](https://justdone.ai/other/ai-detector) - Detector for content authenticity and SEO, mainly for digital marketers.
+
+ ### L
+ - [Leap](https://www.tryleap.ai/tools/ai-content-detector) - A freemium AI content detector, supporting multiple languages with up to 5 free analyses daily.
 
  ### M
  - [Merlin](https://www.getmerlin.in/ai-detection/) - A relatively accurate AI Detector with a good free version.
@@ -97,6 +105,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
   - [StealthGPT](https://www.stealthgpt.ai/ai-checker) - Identifies AI-generated content through word choice analysis.
 
  ### T
+  - [TraceGPT](https://plagiarismcheck.org/ai-detector/) - Detects AI-generated content, supports various file formats, and offers downloadable reports.
   - [Trinka](https://www.trinka.ai/ai-content-detector/) - An AI content detector to identify ChatGPT-like AI-generated text. 
   - [Turnitin](https://www.turnitin.com/solutions/topics/ai-writing/ai-detector/) - An AI detector that identifies AI-generated content in student writing, pinpointing AI usage.
 
