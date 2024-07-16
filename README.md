@@ -34,6 +34,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
 
  ### A
  - [AIContentfy](https://aicontentfy.com/free-ai-content-detector-tool/) - Tool that detects AI-generated text for SEO specialists and content creators.
+ - [AI Checker Tool](https://aicheckertool.com/) - A free tool that detects AI text, supports multiple languages.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
  - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
 
@@ -58,6 +59,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [GPTZero](https://gptzero.me/) - Utilizes various advanced techniques to detect AI-generated text. 
 
  ### H
+ - [HiPDF](https://www.hipdf.com/ai-detector) - You like GPTZero but want something cheaper? HiPDF is the answer.
  - [Hive Moderation](https://gptkit.ai/) - Spots text created by AI tools like ChatGPT. Can also detect synthetic media.
 
  ### I
@@ -84,6 +86,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
   - [Orginality.ai](https://originality.ai/ai-checker/) - AI Detector for ChatGPT, GPT-4, Bard, Claude and other popular AI writing tools.
 
  ### P
+  - [Pangram Labs](https://www.pangramlabs.com/) - Accurate AI content detection solution for enterprises.
   - [PlagiarismSearch](https://plagiarismsearch.com/ai-content-detector/) - An advanced AI detector to evaluate the authenticity of documents or sections.
   - [Plagramme](https://www.plagramme.com/services/ai/) - A multilingual AI detector with a free version limited to 2,500 characters.
   - [PromptFolder](https://promptfolder.com/chatgpt-detector/) - A multilingual AI detector with a free version limited to 2,500 characters.
