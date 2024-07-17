@@ -60,7 +60,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
 
  ### H
  - [HiPDF](https://www.hipdf.com/ai-detector) - You like GPTZero but want something cheaper? HiPDF is the answer.
- - [Hive Moderation](https://gptkit.ai/) - Spots text created by AI tools like ChatGPT. Can also detect synthetic media.
+ - [Hive Moderation](https://hivemoderation.com/ai-generated-content-detection) - Spots text created by AI tools like ChatGPT. Can also detect synthetic media.
 
  ### I
  - [Illuminarty](https://illuminarty.ai/en/text/ai-generated-text-detection.html/) - Detects AI-generated text, identifies the model, and pinpoints AI-generated sections.
