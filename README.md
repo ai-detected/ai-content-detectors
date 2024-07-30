@@ -117,7 +117,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  ### W
    - [Winston AI](https://gowinston.ai/) - A multilingual AI detector to identify AI-generated content. 
    - [Writer](https://writer.com/ai-content-detector/) - A free tool to analyze text for AI authorship. Up to 5,000 words.
-   - [Writesonic](https://writesonic.com/ai-content-detector) - Aa AI content detector tool that analyzes up to 1,000 words for free.
+   - [Writesonic](https://writesonic.com/ai-content-detector) - An AI content detector tool that analyzes up to 1,000 words for free.
 
  ### Z
 - [ZeroGPT](https://www.zerogpt.com/) - An AI content detector that detects human versus AI-generated text across languages.
