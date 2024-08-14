@@ -37,6 +37,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [AI Checker Tool](https://aicheckertool.com/) - A free tool that detects AI text, supports multiple languages.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
  - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
+ - [Antispoofing Wiki](https://antispoofing.org/ai-text-detector/) - A low-cost AI content detector that verifies text authenticity with a 0-100 "human" score.
 
  ### C
  - [Compilatio](https://www.compilatio.net/) - Plagiarism and AI content detector tools for educators, students, and publishers.
@@ -55,6 +56,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
  - [Free AI Checker](https://www.freeaichecker.com/check) - Mysterious no-cost tool. Best for personal use.
  
  ### G
+ - [Ghostbuster](https://ghostbuster.app/) - A free tool created by UC Berkeley researchers.
  - [GPTKit](https://gptkit.ai/) - Detects if text is AI or human-written, giving a "reality rate" report. 
  - [GPTZero](https://gptzero.me/) - Utilizes various advanced techniques to detect AI-generated text. 
 
