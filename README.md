@@ -7,7 +7,7 @@ Welcome to the 'List of AI Content Detectors'. This list is a collection of adva
 ## DetectorTools.ai Directory
 - ### [DetectorTools.ai](https://detectortools.ai) is the original source for this list. You should also check them out if you want to check out the accuracy rating for each tool.
 
-If you want tools to detect AI images, videos, and audio (yes, even deepfakes), check out our other repository here:(https://github.com/ai-detected/ai-detectors).
+If you want tools to detect AI images, videos, and audio (yes, even deepfakes), check out our other repository here: (https://github.com/ai-detected/ai-detectors).
 
 ## Table of content:
 **Base on start letter:**
