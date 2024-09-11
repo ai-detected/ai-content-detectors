@@ -13,6 +13,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 **Base on start letter:**
 
  - [A](#a)
+ - [B](#b)
  - [C](#c)
  - [D](#d)
  - [E](#e)
@@ -41,11 +42,14 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [AI Checker Tool](https://aicheckertool.com/) - A free tool that detects AI text, supports multiple languages.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
  - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
+ - [AI Undetect](https://www.aiundetect.com/) - AI detector with good accuracy. FYI: The humanizer feature does not work for sophisticated AI detectors.
  - [Antispoofing Wiki](https://antispoofing.org/ai-text-detector/) - A low-cost AI content detector that verifies text authenticity with a 0-100 "human" score.
+
+ ### B
+ - [BrandWell](https://detectortools.ai/tool/brandwell-ai-detector/) - Previously known as "Content at Scale", AI detector for bloggers and marketers.
 
  ### C
  - [Compilatio](https://www.compilatio.net/) - Plagiarism and AI content detector tools for educators, students, and publishers.
- - [Content at Scale](https://contentatscale.ai/ai-content-detector/) - Identifies AI-generated text from ChatGPT-like models.
  - [Copyleaks](https://copyleaks.com/ai-content-detector) - Detects AI-written content by analyzing writing patterns.
  - [Crossplag](https://crossplag.com/ai-content-detector/) - Detects AI-generated text by analyzing text patterns.
  - [CudekAI](https://www.cudekai.com/free-ai-content-detector) - A freemium multilingual AI content detector for writers and SEO pros.
@@ -53,7 +57,8 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  ### D
  - [Decopy.ai](https://decopy.ai/) - Decopy.ai provides a free, simple AI content detector with no signup.
  - [Detecting-AI](https://detecting-ai.com/) - A low-cost AI content detector best suited for personal use
- - [DuckDuckGoose](https://www.duckduckgoose.ai/ai-text-detection/) - Detects AI-generated text in complex documents like scholarly works. 
+ - [DuckDuckGoose](https://www.duckduckgoose.ai/ai-text-detection/) - Detects AI-generated text in complex documents like scholarly works.
+ - [DupliChecker](https://www.duplichecker.com/ai-content-detector.php) - Reputable company, but tool is poor. Avoid.
  
  ### E
  - [EduLinkAI](https://edulinkai.com/checker-ai/) - Detects AI-written text in academic assignments.
@@ -74,7 +79,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### I
  - [Illuminarty](https://illuminarty.ai/en/text/ai-generated-text-detection.html/) - Detects AI-generated text, identifies the model, and pinpoints AI-generated sections.
- - [Inkey](https://www.inkey.ai/ai-tools/ai-detector) - Exposes artificially generated content by analyzing text patterns.
+ - [Inkey](https://www.inkey.ai/ai-tools/ai-detector) - Exposes artificially generated content by analyzing text patterns. Very accurate.
  - [Inspera](https://www.inspera.com/inspera-originality/) - Detects potential plagiarism and AI usage in multilingual student work. 
  - [Is It AI?](https://isitai.com/ai-text-detector/) - Predicts if text is AI-generated or human-written by analyzing characteristic features.
  - [Isgen](https://isgen.ai/) - Detector that identifies AI-generated text in over 80 languages.
@@ -104,6 +109,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [Pangram Labs](https://www.pangramlabs.com/) - Accurate AI content detection solution for enterprises.
  - [PlagiarismSearch](https://plagiarismsearch.com/ai-content-detector/) - An advanced AI detector to evaluate the authenticity of documents or sections.
  - [Plagramme](https://www.plagramme.com/services/ai/) - A multilingual AI detector with a free version limited to 2,500 characters.
+ - [Polygraf](https://polygraf.ai/ai-content-detector) - AI detector with features such as origin tracing.
  - [PromptFolder](https://promptfolder.com/chatgpt-detector/) - A multilingual AI detector with a free version limited to 2,500 characters.
 
  ### Q
