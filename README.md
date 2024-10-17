@@ -44,6 +44,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
  - [AI Undetect](https://www.aiundetect.com/) - AI detector with good accuracy. FYI: The humanizer feature does not work for sophisticated AI detectors.
  - [Antispoofing Wiki](https://antispoofing.org/ai-text-detector/) - A low-cost AI content detector that verifies text authenticity with a 0-100 "human" score.
+ - [AIDetectPlus](https://aidetectplus.com/) - AI Detection and Humanization tool with never-expiring credits. Buy and use anytime.
 
  ### B
  - [BrandWell](https://detectortools.ai/tool/brandwell-ai-detector/) - Previously known as "Content at Scale", AI detector for bloggers and marketers.
