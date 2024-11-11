@@ -2,7 +2,7 @@
 
 Welcome to the 'List of AI Content Detectors'. This list is a collection of advanced tools that help you find AI-generated text on the internet. It's perfect for website developers, AI researchers, educators, or anyone who needs to distinguish between content written by humans and content produced by AI. We've assembled and organized these tools to make it easy for you to find the ones that perform well in detecting AI content. Explore this resource to find the right AI content detectors for your needs and join us in promoting cooperation and recognition within the AI community.
 
-**NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Remember that no AI content detector is perfect for every job, and always use your best judgment.
+**NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Last updated: 11/11/2024. Remember that no AI content detector is perfect for every job, and always use your best judgment.
 
 ## DetectorTools.ai Directory
 - ### [DetectorTools.ai](https://detectortools.ai) is the original source for this list. You should also check them out if you want to check out the accuracy rating for each tool.
@@ -34,6 +34,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [T](#t)
  - [U](#u)
  - [W](#w)
+ - [X](#x)
  - [Z](#z)
 
  ### A
@@ -41,9 +42,12 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [AIContentfy](https://aicontentfy.com/free-ai-content-detector-tool/) - Tool that detects AI-generated text for SEO specialists and content creators.
  - [AI Checker Tool](https://aicheckertool.com/) - A free tool that detects AI text, supports multiple languages.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
+ - [AI Detector Writer](https://aidetectorwriter.com/) - Free tool with great accuracy.
+ - [AIDetectPlus](https://aidetectplus.com/ai-detector) - Freemium tool with a credit-based system.
  - [AI Purity](https://www.ai-purity.com/) - AI detection, sentence analysis, batch upload, API, free 5k char analysis.
  - [AI Undetect](https://www.aiundetect.com/) - AI detector with good accuracy. FYI: The humanizer feature does not work for sophisticated AI detectors.
  - [Antispoofing Wiki](https://antispoofing.org/ai-text-detector/) - A low-cost AI content detector that verifies text authenticity with a 0-100 "human" score.
+ - [AssignmentGPT](https://assignmentgpt.ai/ai-content-detector) - A tool that offers two free scans before requiring signup.
 
  ### B
  - [BrandWell](https://detectortools.ai/tool/brandwell-ai-detector/) - Previously known as "Content at Scale", AI detector for bloggers and marketers.
@@ -56,6 +60,8 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### D
  - [Decopy.ai](https://decopy.ai/) - Decopy.ai provides a free, simple AI content detector with no signup.
+ - [DetectGPT](https://detectgpt.com/) - Combined AI detector and humanizer.
+ - [Detector Pro](https://detectorpro.ai/) - A new AI tool for detecting fake images and AI-generated text.
  - [Detecting-AI](https://detecting-ai.com/) - A low-cost AI content detector best suited for personal use
  - [DuckDuckGoose](https://www.duckduckgoose.ai/ai-text-detection/) - Detects AI-generated text in complex documents like scholarly works.
  - [DupliChecker](https://www.duplichecker.com/ai-content-detector.php) - Reputable company, but tool is poor. Avoid.
@@ -89,6 +95,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [Justdone](https://justdone.ai/other/ai-detector) - Detector for content authenticity and SEO, mainly for digital marketers.
 
  ### K
+ - [Kipper AI](https://www.kipper.ai/) - Paid AI detector with sentence-level analysis for students.
  - [Kritik](https://www.kritik.io/ai-plagiarism-detector) - AI content detector for educators, including a 4,000-character limit.
 
  ### L
@@ -100,6 +107,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### N
  - [NeuralWriter](https://neuralwriter.com/content-detector-tool/) - Free AI content detector identifies machine-generated vs human-written text.
+ - [Nexunom](https://nexunom.com/detect-ai-text/) - Multilingual AI text detector that offers 5 free daily scans.
  
  ### O
  - [OpenL](https://openl.io/ai-detector) - Accurate AI Detector that offers up to 10 free daily scans.
@@ -107,6 +115,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### P
  - [Pangram Labs](https://www.pangramlabs.com/) - Accurate AI content detection solution for enterprises.
+ - [PerfectEssayWriter](https://www.perfectessaywriter.ai/ai-detector) - A tool that offers one free scan before signup.
  - [PlagiarismSearch](https://plagiarismsearch.com/ai-content-detector/) - An advanced AI detector to evaluate the authenticity of documents or sections.
  - [Plagramme](https://www.plagramme.com/services/ai/) - A multilingual AI detector with a free version limited to 2,500 characters.
  - [Polygraf](https://polygraf.ai/ai-content-detector) - AI detector with features such as origin tracing.
@@ -141,6 +150,9 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [WriteHuman](https://writehuman.ai/ai-detector) - A free AI detector that can identify AI-generated text for up to 1,200 words.
  - [Writer](https://writer.com/ai-content-detector/) - A free tool to analyze text for AI authorship. Up to 5,000 words.
  - [Writesonic](https://writesonic.com/ai-content-detector) - Aa AI content detector tool that analyzes up to 1,000 words for free.
+
+ ### X
+ - [X Detector](https://xdetector.ai/) - A free AI content detector with a generous character limit.
 
  ### Z
  - [ZeroGPT](https://www.zerogpt.com/) - An AI content detector that detects human versus AI-generated text across languages.
