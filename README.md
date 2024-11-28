@@ -1,11 +1,17 @@
 # List of AI Content Detectors
 
-Welcome to the 'List of AI Content Detectors'. This list is a collection of advanced tools that help you find AI-generated text on the internet. It's perfect for website developers, AI researchers, educators, or anyone who needs to distinguish between content written by humans and content produced by AI. We've assembled and organized these tools to make it easy for you to find the ones that perform well in detecting AI content. Explore this resource to find the right AI content detectors for your needs and join us in promoting cooperation and recognition within the AI community.
+Welcome to the 'List of AI Content Detectors'. This list is a collection of advanced tools that help you find AI-generated text on the internet. It's perfect for developers, researchers, educators, students, and others who need to distinguish between human-written and AI-generated content. We've assembled and organized these tools to make it easy for you to find the ones that perform well in detecting AI content. 
 
-**NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Last updated: 11/11/2024. Remember that no AI content detector is perfect for every job, and always use your best judgment.
+Explore this resource to find the right AI detectors for your needs and join us in promoting cooperation and recognition within the AI community.
+
+**NOTE**: This list is updated once a month. For the latest detector tools (**content, image, video, voice, code)**, you may visit the original source listed in the next section. Last updated: 11/28/2024. Remember that no AI content detector is perfect for every job, and always use your best judgment.
+
+**TIPS & TRICKS**: Short texts (under 200 words) can trigger false positives. Be suspicious of text that overuses tentative words ('may,' 'appears,' 'should,' etc.).
+
+
 
 ## DetectorTools.ai Directory
-- ### [DetectorTools.ai](https://detectortools.ai) is the original source for this list. You should also check them out if you want to check out the accuracy rating for each tool.
+### 🤖 **[DetectorTools.ai](https://detectortools.ai)** 🤖 is the original source for this list. You should also check them out if you want to check out the accuracy rating for each tool.
 
 If you want tools to detect AI images, videos, and audio (yes, even deepfakes), check out our other repository here: (https://github.com/ai-detected/ai-detectors).
 
@@ -114,7 +120,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [Orginality.ai](https://originality.ai/ai-checker/) - AI Detector for ChatGPT, GPT-4, Bard, Claude and other popular AI writing tools.
 
  ### P
- - [Pangram Labs](https://www.pangramlabs.com/) - Accurate AI content detection solution for enterprises.
+ - [Pangram Labs](https://www.pangramlabs.com/) - Very accurate enterprise-grade AI content detector. Free scans available. ⭐🦄
  - [PerfectEssayWriter](https://www.perfectessaywriter.ai/ai-detector) - A tool that offers one free scan before signup.
  - [PlagiarismSearch](https://plagiarismsearch.com/ai-content-detector/) - An advanced AI detector to evaluate the authenticity of documents or sections.
  - [Plagramme](https://www.plagramme.com/services/ai/) - A multilingual AI detector with a free version limited to 2,500 characters.
