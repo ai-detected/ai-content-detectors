@@ -139,6 +139,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [SciSpace](https://typeset.io/ai-detector) -  An AI detector tool to identify AI-generated content in academia.
  - [Scribbr](https://www.scribbr.com/ai-detector/) - A free tool to detect AI-generated text. Works well for older GPT models.
  - [Serpstat](https://serpstat.com/page/ai-content-detection/) - A content detector for SEO pros, bloggers, and marketers.
+ - [slopless](https://github.com/seochecks-ai/slopless) - Deterministic, rule-based linter (textlint preset + CLI) that flags the stylistic tells of AI-generated and padded English prose, without calling an LLM. Not an ML detector. Available on npm as `slopless` (MIT).
  - [Smodin](https://smodin.io/ai-content-detector) - Multi-lingual AI content detector identifies human vs AI-generated text. 
  - [SpinBot](https://spinbot.com/ai-content-detector) - Simplistic AI tool that detects if text is AI-generated or human-written using machine learning.
  - [StealthGPT](https://www.stealthgpt.ai/ai-checker) - Identifies AI-generated content through word choice analysis.
