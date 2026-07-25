@@ -106,6 +106,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### L
  - [Leap](https://www.tryleap.ai/tools/ai-content-detector) - A freemium AI content detector, supporting multiple languages with up to 5 free analyses daily.
+ - [Lucidity Detector](https://lucidity.gracestack.se) - AI lucidity scorer (0-100) powered by Bride HDC. Detects buzzword density, coherence, epistemic honesty. Free 3 analyses/day, 500kr/mo premium with API access.
 
  ### M
  - [Merlin](https://www.getmerlin.in/ai-detection/) - A relatively accurate AI Detector with a good free version.
