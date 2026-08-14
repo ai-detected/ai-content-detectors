@@ -109,6 +109,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### M
  - [Merlin](https://www.getmerlin.in/ai-detection/) - A relatively accurate AI Detector with a good free version.
+ - [Mydentify AI Watermark and Claude Checker](https://mydentify.com/tools/ai-watermark-detector) - A free, browser-based heuristic checker that inspects pasted text for observable Unicode artifacts and style clues; results are not proof of authorship or a private statistical watermark.
  - [MyEssayWriter](https://www.myessaywriter.ai/ai-content-detector) - A generous student-focused AI detector.
 
  ### N
