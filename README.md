@@ -77,6 +77,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
 
  ### F
  - [Free AI Checker](https://www.freeaichecker.com/check) - Mysterious no-cost tool. Best for personal use.
+ - [FreeAIScanner](https://freeaiscanner.com/) - Free educational guide to AI image scanner evidence: provenance, Content Credentials, metadata, and model signals with explicit limits. Live scanning not yet available.
  
  ### G
  - [Ghostbuster](https://ghostbuster.app/) - A free tool created by UC Berkeley researchers.
