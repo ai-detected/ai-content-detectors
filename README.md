@@ -144,6 +144,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [StealthGPT](https://www.stealthgpt.ai/ai-checker) - Identifies AI-generated content through word choice analysis.
 
  ### T
+ - [TextSight](https://www.textsight.ai/ai-detector/) - AI detector with sentence-level highlighting and a built-in AI humanizer. Free plan checks 20,000 characters a month; API with Python and JavaScript SDKs.
  - [TraceGPT](https://plagiarismcheck.org/ai-detector/) - Detects AI-generated content, supports various file formats, and offers downloadable reports.
  - [Trinka](https://www.trinka.ai/ai-content-detector/) - An AI content detector to identify ChatGPT-like AI-generated text. 
  - [Turnitin](https://www.turnitin.com/solutions/topics/ai-writing/ai-detector/) - An AI detector that identifies AI-generated content in student writing, pinpointing AI usage.
