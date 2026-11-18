@@ -47,6 +47,7 @@ If you want tools to detect AI images, videos, and audio (yes, even deepfakes), 
  - [AcademicHelp](https://academichelp.net/ai-detector/) - A*Help offers a tool for students, supporting various formats and languages.
  - [AIContentfy](https://aicontentfy.com/free-ai-content-detector-tool/) - Tool that detects AI-generated text for SEO specialists and content creators.
  - [AI Checker Tool](https://aicheckertool.com/) - A free tool that detects AI text, supports multiple languages.
+ - [AI Code Detector](https://ai-code-detector.com/for-teachers) - Detects AI-generation signals in submitted code files, with per-file scores, highlighted snippets, and exportable reports.
  - [AI Detector Pro](https://aidetector.pro/) - Meant to humanize AI text, but is also capable of detecting it.
  - [AI Detector Writer](https://aidetectorwriter.com/) - Free tool with great accuracy.
  - [AIDetectPlus](https://aidetectplus.com/ai-detector) - Freemium tool with a credit-based system.
